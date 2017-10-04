@@ -1,0 +1,24 @@
+{
+  "name": "bunyan-datadog",
+  "version": "1.0.0",
+  "description": "Bunyan stream logger for Datadog logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mturner/bunyan-datadog.git"
+  },
+  "keywords": [
+    "bunyan",
+    "datadog",
+    "logger"
+  ],
+  "author": "Matthew Turner",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mturner/bunyan-datadog/issues"
+  },
+  "homepage": "https://github.com/mturner/bunyan-datadog#readme"
+}
