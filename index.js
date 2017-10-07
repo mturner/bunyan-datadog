@@ -16,5 +16,6 @@ class BunyanDatadog {
 }
 
 module.exports = (config)=> {
+  console.log("Creating BunyanDatdog!", config)
   return new BunyanDatadog(config);
 }
